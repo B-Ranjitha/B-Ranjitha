@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Full-Stack Development, DSA, Cybersecurity, and Machine Learning**
 - 👨‍💻 I’ve built projects using **Python, Java, HTML, CSS, JavaScript, Flask, SQLite**
 - 📫 Reach me at **branjitha1512003@gmail.com**
-- 💼 Check out my [Resume](https://github.com/B-Ranjitha/B-Ranjitha/blob/main/Ranjitha_Resume.pdf)
+- 💼 Check out my [Resume](Ranjitha_Resume.pdf)
 
 ---
 
