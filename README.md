@@ -1,110 +1,100 @@
 <h1 align="center">Hi 👋, I'm Buduru Ranjitha</h1>
-<h3 align="center">MCA Student | Aspiring Software Developer | Full-Stack Enthusiast</h3>
+
+<h3 align="center">MCA Student | Aspiring AI Software Developer | Full-Stack Developer</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable web applications and solving real-world problems using code
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI+Software+Developer;Java+%7C+Python+%7C+SQL+%7C+Full+Stack;Building+Real+World+Projects;Open+to+Internships+%26+Opportunities" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 MCA Student at **Ballari Institute of Technology & Management (BITM)** (2025–2027)  
+- 🎓 MCA Student at **BITM** (2025–2027)  
+- 🏆 **MCA 1st Semester SGPA: 10/10**  
 - 🎓 BCA Graduate with **CGPA: 9.63**  
-- 💡 Strong interest in **Software Development & Web Technologies**  
-- 🔍 Exploring **AI/ML, Cybersecurity, and Data Structures & Algorithms**  
-- 🛠️ Hands-on experience in both **Frontend & Backend Development**  
+- 💡 Passionate about **AI + Software Development**  
+- 🌱 Currently learning **Full Stack Development, DSA, AI & Cloud**  
+- 🎯 Seeking **Internships / Software Developer Opportunities**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java` `Python` `PHP` `JavaScript`  
-
-**Frontend:**  
-`HTML` `CSS` `JavaScript`  
-
-**Backend & Databases:**  
-`Flask` `MySQL` `SQLite`  
-
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `XAMPP`  
-
-**Core Concepts:**  
-`OOP` `DBMS` `Data Structures & Algorithms` `Basic AI/ML`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,tailwind,flask,php,mysql,sqlite,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Analytics
 
-### 🔹 Local Event Board with Map Integration
-- Built a full-stack web app to manage and display local events  
-- Integrated maps to visualize event locations  
-- Developed backend using **PHP & MySQL**  
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=B-Ranjitha&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Ranjitha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-### 🔹 BrainRoute: AI-Based Maze & Puzzle Solver
-- Developed using **Python & AI concepts**  
-- Implemented pathfinding algorithms for intelligent solutions  
-- Improved decision-making accuracy  
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=B-Ranjitha&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🔹 College Enquiry Chatbot
-- Built using **Python, Flask & SQLite**  
-- Automates student queries and reduces manual workload  
-- Designed for real-time interaction  
+## 🚀 Featured Projects
+
+### 🔹 College Enquiry Chatbot  
+> Python + Flask + SQLite chatbot to automate student queries and reduce manual workload  
+
+### 🔹 BrainRoute: AI Maze Solver  
+> AI-based puzzle solver using intelligent pathfinding algorithms  
+
+### 🔹 Local Event Board with Maps  
+> Full-stack web app using PHP + MySQL with map integration  
+
+### 🔹 Portfolio Website  
+> Responsive personal portfolio with modern UI/UX design  
 
 ---
 
-### 🔹 FoodChef Web Application
-- Responsive restaurant website  
-- Focused on UI/UX and interactivity using JavaScript  
+## 🏆 Certifications
+
+- ✔️ Accenture Nordics Software Engineering Job Simulation  
+- ✔️ Cisco Python Essentials  
+- ✔️ Infosys Web Programmer  
+- ✔️ Infosys Java Programming  
+- ✔️ Artificial Intelligence & Machine Learning  
 
 ---
 
-## 💼 Experience
+## 📈 Academic Achievements
 
-**Software Developer – Academic Projects**  
-📍 BITM (2024 – Present)  
-- Developed multiple full-stack academic projects  
-- Worked on CRUD operations and database management  
-- Used Git & GitHub for version control and collaboration  
-
----
-
-## 📜 Certifications
-
-- ✔️ Software Engineering Job Simulation – Accenture Nordics  
-- ✔️ Python Essentials – Cisco NetAcad  
-- ✔️ Web Programmer – Infosys Springboard  
-- ✔️ Java Programming – Infosys Springboard  
-- ✔️ Artificial Intelligence & Machine Learning – Infosys Springboard  
+🏅 **MCA Semester 1 SGPA: 10/10**  
+🏅 **BCA CGPA: 9.63**  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/buduru-ranjitha-44aa50348" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:branjitha1512003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/buduru-ranjitha-44aa50348">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="mailto:branjitha1512003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+<a href="https://b-ranjitha.github.io/My-Portfolio">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 </p>
 
 ---
 
-## 📄 Portfolio & Resume
+## 💬 Quote I Believe In
 
-- 🌐 Portfolio: **https://b-ranjitha.github.io/My-Portfolio**  
-- 📄 Resume: **Ranjitha_Resume.pdf**
+> "Success is built through consistency, discipline, and continuous learning."
 
 ---
 
 <p align="center">
-  🌱 Always learning, building, and open to opportunities in software development
+🌱 Always Learning • 🚀 Always Building • 💼 Open to Opportunities
 </p>
